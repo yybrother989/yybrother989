@@ -1,32 +1,24 @@
-# Leo Gao
+![Leo Gao — AI Engineer building multi-agent systems](./banner.svg)
 
-AI Engineer · Toronto
-
----
-
-I build systems that **do** work — not chat about it.
-Multi-agent orchestration · LLM infrastructure · Production shipping.
-
-<br />
+&nbsp;
 
 #### ─── Shipped
 
-**[Chorus AI](https://www.trychorus.ca)**
-Autonomous research system that deploys 14 specialized AI analysts to investigate any stock. Not a chatbot — a multi-agent pipeline with portfolio-aware insight. Live on web + iOS.
+**[Chorus AI](https://www.trychorus.ca)** — Autonomous research system that deploys 14 specialized AI analysts to investigate any stock. Not a chatbot. A multi-agent pipeline with portfolio-aware insight. Live on web + iOS.
 
-<br />
+&nbsp;
 
 #### ─── Working in
 
 `Python` · `TypeScript` · `Swift` · `LangGraph` · `FastAPI` · `Next.js` · `Postgres`
 
-<br />
+&nbsp;
 
 #### ─── Interested in
 
 Agent orchestration beyond single-LLM calls · Financial data infrastructure · The seam between retrieval, reasoning, and tools
 
-<br />
+&nbsp;
 
 #### ─── Reach out
 
